@@ -69,7 +69,7 @@ EduCloud is a cloud-based learning platform that brings structured learning cont
 - Practised AWS infrastructure and networking concepts such as VPCs, public/private subnets, routing and security groups.
 - Explored how application components communicate within a cloud-hosted setup.
 
-🔗 **Project website:** [https://myeducloude.in](https://myeducloude.in)
+
 
 ### 2. Personal Portfolio Website – Dockerised Deployment
 
@@ -133,6 +133,6 @@ You can view or download my current Cloud & DevOps resume here:
 
 **Thanks for visiting my profile!**
 
-_Always learning. Always building. Always improving._ ☁️
+ learning. building. improving._ ☁️
 
 </div>
