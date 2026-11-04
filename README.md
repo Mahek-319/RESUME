@@ -133,6 +133,6 @@ You can view or download my current Cloud & DevOps resume here:
 
 **Thanks for visiting my profile!**
 
- learning. building. improving._ ☁️
+  learning. building. improving.
 
 </div>
