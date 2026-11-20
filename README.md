@@ -114,12 +114,6 @@ I am building my understanding of production-oriented cloud and DevOps practices
 
 These are learning areas; my current hands-on project experience is centred on AWS EC2, Linux, Docker and Nginx.
 
-## 📄 Resume
-
-You can view or download my current Cloud & DevOps resume here:
-
-[**📥 Download Mahek Gupta – Cloud & DevOps Resume (PDF)**](Mahek_Gupta_Cloud_DevOps_Resume.pdf)
-
 ## 🤝 Connect With Me
 
 - **Email:** [guptamahek419@gmail.com](mailto:guptamahek419@gmail.com)
